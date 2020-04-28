@@ -1,0 +1,2 @@
+# autko
+po prostu autko
